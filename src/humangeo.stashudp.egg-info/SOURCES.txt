@@ -1,0 +1,14 @@
+CHANGES.txt
+CONTRIBUTORS.txt
+README.txt
+setup.py
+src/humangeo/__init__.py
+src/humangeo.stashudp.egg-info/PKG-INFO
+src/humangeo.stashudp.egg-info/SOURCES.txt
+src/humangeo.stashudp.egg-info/dependency_links.txt
+src/humangeo.stashudp.egg-info/entry_points.txt
+src/humangeo.stashudp.egg-info/namespace_packages.txt
+src/humangeo.stashudp.egg-info/not-zip-safe
+src/humangeo.stashudp.egg-info/requires.txt
+src/humangeo.stashudp.egg-info/top_level.txt
+src/humangeo/stashudp/__init__.py

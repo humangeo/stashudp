@@ -1,0 +1,7 @@
+Changelog
+=========
+
+1.0-dev (unreleased)
+--------------------
+
+- Package created by Sam Jones and Abe Usher

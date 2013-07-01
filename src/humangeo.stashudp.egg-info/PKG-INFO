@@ -1,0 +1,33 @@
+Metadata-Version: 1.1
+Name: humangeo.stashudp
+Version: 1.0
+Summary: Send logging events to Logstash (ElasticSearch).
+Home-page: http://www.thehumangeo.com/
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: gpl
+Description: .. contents::
+        
+        Introduction
+        ============
+        
+        StashUDP is a logging handler that allows you to emit log messages in LogStash format to ElasticSearch.
+        Contributors
+        ============
+        
+        - Sam Jones, Engineer
+        - Abe Usher, Engineer
+        
+        Changelog
+        =========
+        
+        1.0-dev (unreleased)
+        --------------------
+        
+        - Package created by Sam Jones and Abe Usher
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: System :: Logging
